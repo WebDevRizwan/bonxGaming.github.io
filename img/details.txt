@@ -1,0 +1,59 @@
+
+<link href="https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,
+100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+font-family: 'Exo', sans-serif;
+font-family: 'Metal Mania', cursive;
+
+
+
+<link href="https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&
+family=Metal+Mania&display=swap" rel="stylesheet">
+
+
+
+main heading shedow
+
+text-shadow: 3px 3px 0px #b154f0;
+
+color: #fff;
+
+
+p{
+ color: #f3f3f3;
+}
+h1 to h6
+color:#fff;
+
+a{
+color:#fff;
+}
+
+
+blue color:
+#b154f0;
+
+
+h2 {
+font-size:40px;
+}
+p{
+font-size:17px;
+}
+
+
+
+card----
+h3 {
+24px;
+}
+p{
+16px;
+}
+
+
+upcoming match----
+
+p- 16px;
+a- 28px;
+span -14px;
